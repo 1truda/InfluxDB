@@ -1,0 +1,2 @@
+# InfluxDB
+Introduction about InfluxDB
